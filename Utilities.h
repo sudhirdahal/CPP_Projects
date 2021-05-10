@@ -1,10 +1,3 @@
-/*
-					Milestone3	
-Name: Sudhir Dahal				ID#: 144417193
-Email:sdahal5@myseneca.ca		Date: November 22, 2020
-
-I confirm that I am the only author of this file and the content was created entirely by me.
-*/
 
 #ifndef UTILITIES_H
 #define UTILITIES_H
